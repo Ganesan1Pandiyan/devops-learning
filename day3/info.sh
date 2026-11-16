@@ -2,4 +2,3 @@
 echo "Ganesan"
 pwd
 date
-line 4
