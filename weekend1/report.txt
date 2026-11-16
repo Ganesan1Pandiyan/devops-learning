@@ -1,0 +1,13 @@
+===== Log Report =====
+Date: Sat Nov  7 16:54:41 UTC 2026
+Total lines: 11
+ERROR: 2
+WARN : 1
+INFO : 7
+
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.6G  955G   1% /
+--- Error details ---
+2026-11-05 09:10 ERROR Database connection failed
+2026-11-05 09:30 ERROR S3 upload failed
