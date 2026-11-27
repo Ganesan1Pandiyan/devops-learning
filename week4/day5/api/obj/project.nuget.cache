@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uX+kdg+ig6w=",
+  "success": true,
+  "projectFilePath": "/src/LearningApi.csproj",
+  "expectedPackageFiles": [
+    "/tmp/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/11.0.0/microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "/tmp/.nuget/packages/microsoft.extensions.logging.abstractions/11.0.0/microsoft.extensions.logging.abstractions.11.0.0.nupkg.sha512",
+    "/tmp/.nuget/packages/npgsql/11.0.0/npgsql.11.0.0.nupkg.sha512",
+    "/tmp/.nuget/packages/system.diagnostics.diagnosticsource/11.0.0/system.diagnostics.diagnosticsource.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
